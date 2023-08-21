@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+}
+
+
+.active {
+  text-decoration: none;
+}
+
+.active span {
+
+    color: #9c27b0 !important;
+}
+.active  svg  {
+
+    color: #9c27b0 !important;
+}
+
+.nav-item {
+
+  text-decoration: none;
+}
+
+.nav-item svg  {
+    color: #757575 !important;
+}
+.nav-item span  {
+    color: #757575 !important;
+}
+
+.vertical-padding {
+  padding-top: 20px !important; /* Adjust the top padding as needed */
+  padding-bottom: 20px !important; /* Adjust the bottom padding as needed */
+}
